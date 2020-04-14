@@ -1,2 +1,2 @@
 language = "java"
-run = "bash run DesignRecipeExamples"
+run = "bash run ExampleTweets"
